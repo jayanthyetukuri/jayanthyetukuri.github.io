@@ -1,12 +1,42 @@
 # Jayanth Yetukuri
+I am a third year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on enhancing the performance of machine learning models in the noisy setting. My research interests also include understanding robustness in neural networks and robust algorithms in general.
 
 ## Contact
+phone: 
+
+       +1 (831) 400-6736
+
+email: 
+
+       [first name][dot][last name][at]gmail[dot]com or 
+      
+       [first letter of first name][yetukur][at]ucsc[dot]edu
 
 ## Social
+
+[](https://scholar.google.com/citations?user=x4cP9hMAAAAJ&hl=en&authuser=1)
+
+[](https://www.linkedin.com/in/jayanth-yetukuri-87052647/)
+
+[](https://github.com/jayanthyetukuri)
+
+[](https://twitter.com/JayanthYetukuri)
+
+[](https://drive.google.com/file/d/1-3oeTFS8h4bCK2v43hJyKoWqVwgSrXnO/view?usp=sharing)
 
 ## Academics
 
 ## Industry Experience
+
+**Bosch Research & Technology Center**\
+_Research Intern | Corporate Research/ Research Technology Centre-India_
+
+Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
+
+**Oracle Research and Development**\
+_Software Engineer | Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_
+
+Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone.
 
 ## Past Projects
 
@@ -17,9 +47,7 @@
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jayanthyetukuri/jayanthyetukuri.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
