@@ -28,12 +28,12 @@ email:
 
 ## Industry Experience
 
-###Bosch Research & Technology Center\
+### Bosch Research & Technology Center\
 _Research Intern | Corporate Research/ Research Technology Centre-India_
 
 Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
 
-###Oracle Research and Development\
+### Oracle Research and Development\
 _Software Engineer | Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_
 
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone.
