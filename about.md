@@ -1,6 +1,8 @@
 # Jayanth Yetukuri
 I am a third year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on enhancing the performance of machine learning models in the noisy setting. My research interests also include understanding robustness in neural networks and robust algorithms in general.
 
+---
+
 ## Contact
 phone: 
 
@@ -11,6 +13,8 @@ email:
        [first name][dot][last name][at]gmail[dot]com
       
        [first letter of first name][yetukur][at]ucsc[dot]edu
+
+---
 
 ## Social
 
@@ -23,6 +27,8 @@ email:
 [](https://twitter.com/JayanthYetukuri)
 
 [](https://drive.google.com/file/d/1-3oeTFS8h4bCK2v43hJyKoWqVwgSrXnO/view?usp=sharing)
+
+---
 
 ## Academics
 ### University of California, Santa Cruz, CA, USA
@@ -37,6 +43,8 @@ Relevant Coursework: Colour Image Processing, Document Analysis and Recognition,
 **B.Tech in Computer Science** | _%: 75/100_ | 2008-2012\
 Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, Data Mining
 
+---
+
 ## Industry Experience
 ### Bosch Research & Technology Center, Bangalore, India
 **Research Intern** | _Corporate Research/ Research Technology Centre-India_ | July 2019 to September 2019\
@@ -45,6 +53,8 @@ Worked on deep learning (supervised) based methods for time series classificatio
 ### Oracle Research and Development, Bangalore, India
 **Software Engineer** | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | June 2014 to September 2018\
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone.
+
+---
 
 ## Past Projects
 
