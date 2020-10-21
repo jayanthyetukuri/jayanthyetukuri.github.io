@@ -2,6 +2,7 @@ theme: jekyll-theme-midnight
 github:
   is_project_page: false
 name: jayanthyetukuri's site
+title: null
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+# title: [The title of your site]
+# description: [A short description of your site's purpose]
