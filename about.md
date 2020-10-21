@@ -26,39 +26,24 @@ email:
 
 ## Academics
 ### University of California, Santa Cruz, CA, USA
-**Ph.D. in Computer Science** | 2018-2022(expected)
-
-_GPA: 3.92/4.0_
-
+**Ph.D. in Computer Science** | _GPA: 3.92/4.0_ | 2018-2022(expected)\
 Relevant Coursework: Machine Learning, Artificial Intelligence, Convex Optimization, Applied Bayesian Statistics, Data Science, Analysis of randomized algorithms.
 
 ### University of Hyderabad, Telangana, India
-**M.Tech in Computer Science** | 2012-2014
-
-_CGPA: 8.7/10_
-
+**M.Tech in Computer Science** | _CGPA: 8.7/10_ | 2012-2014\
 Relevant Coursework: Colour Image Processing, Document Analysis and Recognition, Advanced Algorithms and Data Structures
 
 ### Jawaharlal Nehru Technological University, Andhra Pradesh, India
-**B.Tech in Computer Science** | 2008-2012
-
-_%: 75/100_
-
+**B.Tech in Computer Science** | _%: 75/100_ | 2008-2012\
 Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, Data Mining
 
 ## Industry Experience
 ### Bosch Research & Technology Center, Bangalore, India
-**Research Intern** | July 2019 to September 2019
-
-_Corporate Research/ Research Technology Centre-India_
-
+**Research Intern** | _Corporate Research/ Research Technology Centre-India_ | July 2019 to September 2019\
 Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
 
 ### Oracle Research and Development, Bangalore, India
-**Software Engineer** | June 2014 to September 2018
-
-_Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_
-
+**Software Engineer** | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | June 2014 to September 2018\
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone.
 
 ## Past Projects
