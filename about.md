@@ -62,7 +62,7 @@ Built a model to estimate time-sensitive ambient population of any ad-hoc region
 
 ---
 
-# Ongoing Projects
+# Ongoing Projects:
 ### Loss correction technique for Noisy labels using Nearest Neighbour
 Exploiting the neighbourhood region of an instance during the training process as a loss correcting mechanism for
 obtaining robust models for data with only noisy labels.
@@ -73,14 +73,14 @@ rewards. Performance was studied against corruptions from a pseudo-oracle attack
 
 ---
 
-# Publication
+# Publication:
 ### Sequential Image Synthesis for Human Activity Video Generation
 FH Khan, A de Silva, J Yetukuri, N Norouzi. International Conference on Image Analysis and Recognition (2019), 129-133\
 [[here](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_11)]
 
 ---
 
-# Honors & Awards
+# Honors & Awards:
 2019: Received _Regents Fellowship_ from University of California, Santa Cruz\
 2018: Awarded _Employee of the year_ at Oracle\
 2016: Second place in _Design Jam_ in Oracle: Built a prototype for faster delivery of goods in a crisis zone\
