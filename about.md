@@ -74,7 +74,7 @@ rewards. Performance was studied against corruptions from a pseudo-oracle attack
 ---
 
 # Publication:
-### Sequential Image Synthesis for Human Activity Video Generation
+### Sequential Image Synthesis for Human Activity Video Generation (ICIAR)
 FH Khan, A de Silva, J Yetukuri, N Norouzi. International Conference on Image Analysis and Recognition (2019), 129-133\
 [[here](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_11)]
 
