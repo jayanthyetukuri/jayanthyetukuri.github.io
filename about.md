@@ -83,7 +83,7 @@ FH Khan, A de Silva, J Yetukuri, N Norouzi. International Conference on Image An
 # Honors & Awards
 2019: Received _Regents Fellowship_ from University of California, Santa Cruz\
 2018: Awarded __Employee of the year__ at Oracle\
-2016: Second place in **Design Jam** in Oracle: Built a prototype for faster delivery of goods in a crisis zone\
+2016: Second place in <Design Jam> in Oracle: Built a prototype for faster delivery of goods in a crisis zone\
 2012: Received **post graduate Scholarship** in India for pursuing Masters in computer science\
 2012: Secured **99 percentile in GATE** (Graduate Aptitude Test in Engineering) at national level in India\
 2008: Received **Prime Ministers scholarship** in India for pursuing Bachelors in computer science\
