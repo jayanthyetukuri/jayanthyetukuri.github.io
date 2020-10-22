@@ -32,56 +32,56 @@ email
 
 # Academics:
 ### University of California, Santa Cruz, CA, USA
-**Ph.D. in Computer Science** | _GPA: 3.92/4.0_ | 2018 - 2022 (expected)\
+Ph.D. in Computer Science | _GPA: 3.92/4.0_ | 2018 - 2022 (expected)\
 Relevant Coursework: Machine Learning, Artificial Intelligence, Convex Optimization, Applied Bayesian Statistics, Data Science, Analysis of randomized algorithms.
 
 ### University of Hyderabad, Telangana, India
-**M.Tech in Computer Science** | _CGPA: 8.7/10_ | 2012 - 2014\
+M.Tech in Computer Science | _CGPA: 8.7/10_ | 2012 - 2014\
 Relevant Coursework: Colour Image Processing, Document Analysis and Recognition, Advanced Algorithms and Data Structures
 
 ### Jawaharlal Nehru Technological University, Andhra Pradesh, India
-**B.Tech in Computer Science** | _%: 75/100_ | 2008 - 2012\
+B.Tech in Computer Science | _%: 75/100_ | 2008 - 2012\
 Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, Data Mining
 
 ---
 
 # Industry Experience:
 ### Bosch Research & Technology Center, Bangalore, India
-**Research Intern** | _Corporate Research/ Research Technology Centre-India_ | Jul 2019 - Sep 2019\
+Research Intern | _Corporate Research/ Research Technology Centre-India_ | Jul 2019 - Sep 2019\
 Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
 
 ### Oracle Research and Development, Bangalore, India
-**Data Engineer** | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | Jun 2014 - Sep 2018\
+Data Engineer | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | Jun 2014 - Sep 2018\
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone. 
 
 ---
 
 # Past Projects:
-**Estimating Ambient Population of any Arbitrary Geographical region**\
+### Estimating Ambient Population of any Arbitrary Geographical region
 Built a model to estimate time-sensitive ambient population of any ad-hoc region based on human mobility data. Worked on classical census data and contemporary mobile data to build a reliable model.
 
 ---
 
 # Ongoing Projects
-**Loss correction technique for Noisy labels using Nearest Neighbour**\
+### Loss correction technique for Noisy labels using Nearest Neighbour
 Exploiting the neighbourhood region of an instance during the training process as a loss correcting mechanism for
 obtaining robust models for data with only noisy labels.
 
-**Being Lazy is Robust: Defending against Pseudo Oracle Attack for Stochastic Multi-Armed Bandits**\
+### Being Lazy is Robust: Defending against Pseudo Oracle Attack for Stochastic Multi-Armed Bandits
 This study aims to investigate robust algorithms for stochastic multi-armed bandit problems with adversarially corrupted
 rewards. Performance was studied against corruptions from a pseudo-oracle attack.
 
 ---
 
 # Publication
-**Sequential Image Synthesis for Human Activity Video Generation**\
+### Sequential Image Synthesis for Human Activity Video Generation
 FH Khan, A de Silva, J Yetukuri, N Norouzi. International Conference on Image Analysis and Recognition (2019), 129-133\
 [[here](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_11)]
 
 ---
 
 # Honors & Awards
-2019: Received **Regents Fellowship** from University of California, Santa Cruz\
+2019: Received _Regents Fellowship_ from University of California, Santa Cruz\
 2018: Awarded **Employee of the year** at Oracle\
 2016: Second place in **Design Jam** in Oracle: Built a prototype for faster delivery of goods in a crisis zone\
 2012: Received **post graduate Scholarship** in India for pursuing Masters in computer science\
