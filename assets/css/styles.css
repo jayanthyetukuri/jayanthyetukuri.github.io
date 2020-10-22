@@ -9,7 +9,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#0B5345;
+  color:#28B463;
+/*     #0B5345; */
   margin:0 0 20px;
 }
 
@@ -22,19 +23,19 @@ h1, h2, h3 {
 }
 
 h1 {
-  color:#A2D9CE;
+/*   color:#A2D9CE; */
   font-size:28px;
   font-weight: 500;
 }
 
 h2 {
-  color:#45B39D;
+/*   color:#45B39D; */
 /*   color:#393939; */
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#16A085;
+/*   color:#16A085; */
 /*   color:#494949; */
   font-weight: 500;
   margin: 0 0 10px;
