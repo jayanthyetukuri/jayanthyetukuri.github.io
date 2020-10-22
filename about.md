@@ -31,33 +31,33 @@ email
 ---
 
 ## Academics:
-### University of California, Santa Cruz, CA, USA
-**Ph.D. in Computer Science** | _GPA: 3.92/4.0_ | 2018-2022(expected)\
+### University of California, Santa Cruz, CA, USA\
+**Ph.D. in Computer Science** | _GPA: 3.92/4.0_ | 2018 - 2022 (expected)\
 Relevant Coursework: Machine Learning, Artificial Intelligence, Convex Optimization, Applied Bayesian Statistics, Data Science, Analysis of randomized algorithms.
 
-### University of Hyderabad, Telangana, India
-**M.Tech in Computer Science** | _CGPA: 8.7/10_ | 2012-2014\
+### University of Hyderabad, Telangana, India\
+**M.Tech in Computer Science** | _CGPA: 8.7/10_ | 2012 - 2014\
 Relevant Coursework: Colour Image Processing, Document Analysis and Recognition, Advanced Algorithms and Data Structures
 
-### Jawaharlal Nehru Technological University, Andhra Pradesh, India
-**B.Tech in Computer Science** | _%: 75/100_ | 2008-2012\
+### Jawaharlal Nehru Technological University, Andhra Pradesh, India\
+**B.Tech in Computer Science** | _%: 75/100_ | 2008 - 2012\
 Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, Data Mining
 
 ---
 
 ## Industry Experience:
-### Bosch Research & Technology Center, Bangalore, India
-**Research Intern** | _Corporate Research/ Research Technology Centre-India_ | July 2019 to September 2019\
+### Bosch Research & Technology Center, Bangalore, India\
+**Research Intern** | _Corporate Research/ Research Technology Centre-India_ | Jul 2019 - Sep 2019\
 Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
 
-### Oracle Research and Development, Bangalore, India
-**Data Engineer** | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | June 2014 to September 2018\
+### Oracle Research and Development, Bangalore, India\
+**Data Engineer** | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | Jun 2014 - Sep 2018\
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone. 
 
 ---
 
 ## Past Projects:
-**Estimating Ambient Population of any Arbitrary Geographical region**
+**Estimating Ambient Population of any Arbitrary Geographical region**\
 Built a model to estimate time-sensitive ambient population of any ad-hoc region based on human mobility data. Worked on classical census data and contemporary mobile data to build a reliable model.
 
 ---
