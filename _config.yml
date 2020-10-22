@@ -20,5 +20,5 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
+  - title: About
+    url: about
