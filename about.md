@@ -13,6 +13,10 @@ email
        [first name][dot][last name][at]{gmail[dot]com, ucsc[dot]edu}
 
 ---
+ 
+[Resume](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
+
+---
 
 # Social:
 
