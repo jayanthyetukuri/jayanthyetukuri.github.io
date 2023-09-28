@@ -14,9 +14,7 @@ I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am worki
 
 ---
 
-# Resume:
-       
-       ### [pdf](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
+# Resume: ### [pdf](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
 
 ---
 
