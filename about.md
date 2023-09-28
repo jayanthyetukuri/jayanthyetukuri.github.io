@@ -1,18 +1,16 @@
 # Jayanth Yetukuri
-I am a third year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on enhancing the performance of machine learning models in the noisy setting. My research interests also include understanding robustness in neural networks and robust algorithms in general.
+I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on user centric _Actionable Recourse_. My research interests are in societal aspects of _Artificial Intelligence & Machine Learning_, including but not limited to _robustness_, _recoursability_, _fairness_ and is centered explicitly around improving \textbf{trustworthiness} of the models.
 
 ---
 
 # Contact:
 phone
 
-       +1 (831) 400-6736
+       +1 (83 one) 4 zero zero - six 73 six
 
 email
 
-       [first name][dot][last name][at]gmail[dot]com
-      
-       [first letter of first name][yetukur][at]ucsc[dot]edu
+       [first name][dot][last name][at]{gmail[dot]com, ucsc[dot]edu}
 
 ---
 
@@ -32,7 +30,7 @@ email
 
 # Academics:
 ### University of California, Santa Cruz, CA, USA
-Ph.D. in Computer Science | _GPA: 3.92/4.0_ | 2018 - 2022 (expected)\
+Ph.D. in Computer Science | _GPA: 3.92/4.0_ | 2018 - 2023 (expected)\
 Relevant Coursework: Machine Learning, Artificial Intelligence, Convex Optimization, Applied Bayesian Statistics, Data Science, Analysis of randomized algorithms.
 
 ### University of Hyderabad, Telangana, India
@@ -44,8 +42,16 @@ B.Tech in Computer Science | _%: 75/100_ | 2008 - 2012\
 Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, Data Mining
 
 ---
-
+  
 # Industry Experience:
+### eBay Research, San Jose, USA
+Applied Research Intern | _Search Science and Query Understanding_ | Jun 2022 - Aug 2022\
+Multifaceted reformulation for Null and Low user search queries. Built a transformer based model to provide _multiple_ and _diverse_ reformulations by solving a diversity inducing optimization problem
+
+### eBay Research, San Jose, USA
+Applied Research Intern | _Search Science and Query Understanding_ | Jun 2021 - Aug 2021\
+Box Lattice embedding for representing user search query and categories using a novel loss function for dominant category prediction leveraging query-category hypercube intersection.
+
 ### Bosch Research & Technology Center, Bangalore, India
 Research Intern | _Corporate Research/ Research Technology Centre-India_ | Jul 2019 - Sep 2019\
 Worked on deep learning (supervised) based methods for time series classification. Developed a novel feature extraction technique to replace state of the art distance metric and analysed the results on the UCR datasets.
@@ -63,24 +69,43 @@ Built a model to estimate time-sensitive ambient population of any ad-hoc region
 ---
 
 # Ongoing Projects:
-### Loss correction technique for Noisy labels using Nearest Neighbour
-Exploiting the neighbourhood region of an instance during the training process as a loss correcting mechanism for
-obtaining robust models for data with only noisy labels.
+### Ethics, Society and Actionable Recourse: A survey
 
-### Being Lazy is Robust: Defending against Pseudo Oracle Attack for Stochastic Multi-Armed Bandits
-This study aims to investigate robust algorithms for stochastic multi-armed bandit problems with adversarially corrupted
-rewards. Performance was studied against corruptions from a pseudo-oracle attack.
+### Conformal Recourse framework
 
 ---
 
 # Publication:
+### Providing Recourse over Plausible Groups
+_Jayanth Yetukuri_, ...
+
+### Multifaceted reformulations for Null \& Low Queries and its Parallelism with Counterfactuals
+_Jayanth Yetukuri_, ...
+
+### Individual and Group-level considerations of Actionable Recourse (AIES)
+_Jayanth Yetukuri_, Yang Liu 
+[[here](https://doi.org/10.1145/3600211.3604758)]
+
+### Towards User Guided Actionable Recourse (AIES)
+_Jayanth Yetukuri_, Ian Hady, Yang Liu 
+[[here](https://doi.org/10.1145/3600211.3604708)]
+
+### Adaptive Adversarial Training Does Not Increase Recourse Costs (AIES)
+Ian Hady, _Jayanth Yetukuri_, Yang Liu 
+[[here](https://doi.org/10.1145/3600211.3604704)]
+
+### Robust Stochastic Bandit algorithms to defend against Oracle attack using Sample Dropout (BigData)
+_Jayanth Yetukuri_, Yang Liu 
+[[here](https://ieeexplore.ieee.org/document/10020649)]
+
 ### Sequential Image Synthesis for Human Activity Video Generation (ICIAR)
-FH Khan, A de Silva, J Yetukuri, N Norouzi. International Conference on Image Analysis and Recognition (2019), 129-133\
-[[here](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_11)]
+FH Khan, A de Silva, _Jayanth Yetukuri_, N Norouzi 
+[[here](https://dl.acm.org/doi/abs/10.1007/978-3-030-27272-2_11)]
 
 ---
 
 # Honors & Awards:
+2023: Awarded _Travel grant_ by Sixth AAAI/ACM Conference on AI, Ethics, and Society\
 2019: Received _Regents Fellowship_ from University of California, Santa Cruz\
 2018: Awarded _Employee of the year_ at Oracle\
 2016: Second place in _Design Jam_ in Oracle: Built a prototype for faster delivery of goods in a crisis zone\
