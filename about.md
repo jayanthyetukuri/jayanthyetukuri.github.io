@@ -1,5 +1,5 @@
 # Jayanth Yetukuri
-I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on user centric _Actionable Recourse_. My research interests are in societal aspects of _Artificial Intelligence & Machine Learning_, including but not limited to _robustness_, _recoursability_, _fairness_ and is centered explicitly around improving \textbf{trustworthiness} of the models.
+I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on user centric _Actionable Recourse_. My research interests are in societal aspects of _Artificial Intelligence & Machine Learning_, including but not limited to _robustness_, _recoursability_, _fairness_ and is centered explicitly around improving _trustworthiness_ of the models.
 
 ---
 
@@ -59,12 +59,6 @@ Worked on deep learning (supervised) based methods for time series classificatio
 ### Oracle Research and Development, Bangalore, India
 Data Engineer | _Oracle Retail Advanced Science Engine, Oracle Retail Insights and Science Suite_ | Jun 2014 - Sep 2018\
 Developed a framework for data generation and end-to-end automation testing of Retail Insights, with the responsibility of leading a team of five. Also, built a model for demand forecasting of essential goods in a crisis zone. 
-
----
-
-# Past Projects:
-### Estimating Ambient Population of any Arbitrary Geographical region
-Built a model to estimate time-sensitive ambient population of any ad-hoc region based on human mobility data. Worked on classical census data and contemporary mobile data to build a reliable model.
 
 ---
 
