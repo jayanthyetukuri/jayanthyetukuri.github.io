@@ -4,17 +4,19 @@ I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am worki
 ---
 
 # Contact:
-phone
+### Phone
 
        +1 (83 one) 4 zero zero - six 73 six
 
-email
+### Email
 
        [first name][dot][last name][at]{gmail[dot]com, ucsc[dot]edu}
 
 ---
- 
-[Resume](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
+
+# Resume:
+       
+       ### [pdf](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
 
 ---
 
