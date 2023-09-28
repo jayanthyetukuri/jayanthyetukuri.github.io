@@ -18,8 +18,8 @@ title: jayanth yetukuri
 description: 
 show_downloads: False
 google_analytics: False
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: about
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: About
+#     url: about
