@@ -80,7 +80,7 @@ Developed a framework for data generation and end-to-end automation testing of R
 ---
 
 # Publications:
-### Multifaceted reformulations for Null \& Low Queries and its Parallelism with Counterfactuals
+### Multifaceted reformulations for Null & Low Queries and its Parallelism with Counterfactuals
 _Jayanth Yetukuri_, Yuyan Wang, Ishita Khan, Liyang Hao, Zhe Wu, Yang Liu
 
 ### Providing Recourse over Plausible Groups (AAAI), 2024
