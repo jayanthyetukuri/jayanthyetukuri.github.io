@@ -1,12 +1,12 @@
 # Jayanth Yetukuri
-I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on user centric _Actionable Recourse_. My research interests are in societal aspects of _Artificial Intelligence & Machine Learning_, including but not limited to _robustness_, _recoursability_, _fairness_ and is centered explicitly around improving _trustworthiness_ of the models.
+I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am working with [Prof. Yang Liu](http://yliuu.com/) on user centric _Actionable Recourse_. My research interests are in societal aspects of _Artificial Intelligence & Machine Learning_, including but not limited to _robustness_, _recoursability_, _fairness_ and is centered explicitly around improving _trustworthiness_ of the models. 
 
 ---
 
 # Contact:
 ### Phone
 
-       +1 (83 one) 4 zero zero - six 73 six
+       +1 (83 one) 40 zero - 673 six
 
 ### Email
 
@@ -16,7 +16,7 @@ I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am worki
 
 # Resume: 
 
-### [pdf](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_23.pdf)
+### [pdf](https://jayanthyetukuri.github.io/jayanth_yetukuri_resume_24.pdf)
 
 ---
 
@@ -24,7 +24,7 @@ I am a fifth year Phd student in the CS department of UC, Santa Cruz. I am worki
 
 [](https://scholar.google.com/citations?user=x4cP9hMAAAAJ&hl=en&authuser=1)
 
-[](https://www.linkedin.com/in/jayanth-yetukuri-87052647/)
+[](https://www.linkedin.com/in/jayanth-yetukuri/)
 
 [](https://github.com/jayanthyetukuri)
 
@@ -51,6 +51,10 @@ Relevant Coursework: Probability and Statistics, Linear Algebra, Graph Theory, D
   
 # Industry Experience:
 ### eBay Research, San Jose, USA
+Applied Researcher | _Search Science and Query Understanding_ | Jan 2024 - Present\
+Providing rich and accurate alternate reformulations for Null and Low user search queries using multidimensional optimization. This project is specifically aimed at improving user interaction to improve overall business metrics. 
+
+### eBay Research, San Jose, USA
 Applied Research Intern | _Search Science and Query Understanding_ | Jun 2022 - Aug 2022\
 Multifaceted reformulation for Null and Low user search queries. Built a transformer based model to provide _multiple_ and _diverse_ reformulations by solving a diversity inducing optimization problem
 
@@ -75,30 +79,30 @@ Developed a framework for data generation and end-to-end automation testing of R
 
 ---
 
-# Publication:
-### Providing Recourse over Plausible Groups
-_Jayanth Yetukuri_, ...
-
+# Publications:
 ### Multifaceted reformulations for Null \& Low Queries and its Parallelism with Counterfactuals
-_Jayanth Yetukuri_, ...
+_Jayanth Yetukuri_, Yuyan Wang, Ishita Khan, Liyang Hao, Zhe Wu, Yang Liu
 
-### Individual and Group-level considerations of Actionable Recourse (AIES)
+### Providing Recourse over Plausible Groups (AAAI), 2024
+_Jayanth Yetukuri_, Ian Hardy, Yevgeniy Vorobeychik, Berk Ustun, Yang Liu
+
+### Individual and Group-level considerations of Actionable Recourse (AIES), 2023
 _Jayanth Yetukuri_, Yang Liu 
 [[here](https://doi.org/10.1145/3600211.3604758)]
 
-### Towards User Guided Actionable Recourse (AIES)
+### Towards User Guided Actionable Recourse (AIES), 2023
 _Jayanth Yetukuri_, Ian Hady, Yang Liu 
 [[here](https://doi.org/10.1145/3600211.3604708)]
 
-### Adaptive Adversarial Training Does Not Increase Recourse Costs (AIES)
+### Adaptive Adversarial Training Does Not Increase Recourse Costs (AIES), 2023
 Ian Hady, _Jayanth Yetukuri_, Yang Liu 
 [[here](https://doi.org/10.1145/3600211.3604704)]
 
-### Robust Stochastic Bandit algorithms to defend against Oracle attack using Sample Dropout (BigData)
+### Robust Stochastic Bandit algorithms to defend against Oracle attack using Sample Dropout (BigData), 2022
 _Jayanth Yetukuri_, Yang Liu 
 [[here](https://ieeexplore.ieee.org/document/10020649)]
 
-### Sequential Image Synthesis for Human Activity Video Generation (ICIAR)
+### Sequential Image Synthesis for Human Activity Video Generation (ICIAR), 2019
 FH Khan, A de Silva, _Jayanth Yetukuri_, N Norouzi 
 [[here](https://dl.acm.org/doi/abs/10.1007/978-3-030-27272-2_11)]
 
